@@ -4,7 +4,7 @@
 > Building with React and Three.js using React Three Fiber
 
 ## ScreenShots
-![screenshot](https://github.com/eminbasol/react-threejs-ReactThreeFiber/blob/main/uploads/ss/ss.png)
+![screenshot](https://github.com/eminbasol/react-threejs-ReactThreeFiber/blob/main/ss/ss.png)
 
 ![screenshot](https://github.com/eminbasol/react-threejs-ReactThreeFiber/blob/main/ss/ss2.png)
 
